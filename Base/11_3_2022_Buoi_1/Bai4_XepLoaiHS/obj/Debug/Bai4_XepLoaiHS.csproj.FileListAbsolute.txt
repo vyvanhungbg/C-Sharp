@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\bin\Debug\Bai4_XepLoaiHS.exe.config
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\bin\Debug\Bai4_XepLoaiHS.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\bin\Debug\Bai4_XepLoaiHS.pdb
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\obj\Debug\Bai4_XepLoaiHS.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\obj\Debug\Bai4_XepLoaiHS.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai4_XepLoaiHS\obj\Debug\Bai4_XepLoaiHS.pdb

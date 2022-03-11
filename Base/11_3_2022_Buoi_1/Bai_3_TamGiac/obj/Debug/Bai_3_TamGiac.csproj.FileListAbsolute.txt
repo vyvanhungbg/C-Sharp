@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\bin\Debug\Bai_3_TamGiac.exe.config
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\bin\Debug\Bai_3_TamGiac.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\bin\Debug\Bai_3_TamGiac.pdb
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\obj\Debug\Bai_3_TamGiac.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\obj\Debug\Bai_3_TamGiac.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai_3_TamGiac\obj\Debug\Bai_3_TamGiac.pdb
