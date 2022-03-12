@@ -12,10 +12,11 @@ namespace Bai6_CanBacHai
         {
             Console.OutputEncoding = Encoding.Unicode;
             Console.WriteLine("nhập số a :");
-            Console.WriteLine("Nhập epsilon , thường là 0.0000001:");
+           
             double myNumber = double.Parse(Console.ReadLine());
+            Console.WriteLine("Nhập epsilon , thường là 0.0000001:");
             double epsilon = double.Parse(Console.ReadLine());
-            if (myNumber <= 0 || epsilon<0)
+            if (myNumber < 0 || epsilon<0)
                 Console.WriteLine("số a, epsilon không hợp lệ , a,epsilon >=0");
             else
                 Console.WriteLine(mySqrt(myNumber, epsilon));
@@ -23,7 +24,8 @@ namespace Bai6_CanBacHai
 
         static double mySqrt(double a,double epsilon)
         {
-           
+            if (a == 0)
+                return 0;
             double x_0 = 1;
             double xN = (a / x_0 + x_0) / 2;
             do
