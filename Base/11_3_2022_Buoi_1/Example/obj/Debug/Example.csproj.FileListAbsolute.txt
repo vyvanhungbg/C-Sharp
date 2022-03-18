@@ -1,0 +1,7 @@
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\bin\Debug\Example.exe.config
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\bin\Debug\Example.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\bin\Debug\Example.pdb
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\obj\Debug\Example.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\obj\Debug\Example.exe
+D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Example\obj\Debug\Example.pdb

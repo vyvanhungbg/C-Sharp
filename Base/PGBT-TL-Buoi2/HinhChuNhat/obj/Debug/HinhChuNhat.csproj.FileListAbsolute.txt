@@ -1,0 +1,14 @@
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.exe.config
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.exe
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.pdb
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.AssemblyReference.cache
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.exe
+C:\Users\vyvan\source\repos\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.pdb
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.exe.config
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.exe
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\bin\Debug\HinhChuNhat.pdb
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.exe
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HinhChuNhat\obj\Debug\HinhChuNhat.pdb

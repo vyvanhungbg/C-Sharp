@@ -1,0 +1,7 @@
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\bin\Debug\Fibonaci.exe.config
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\bin\Debug\Fibonaci.exe
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\bin\Debug\Fibonaci.pdb
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\obj\Debug\Fibonaci.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\obj\Debug\Fibonaci.exe
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\obj\Debug\Fibonaci.pdb
+D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\Fibonaci\obj\Debug\Fibonaci.csproj.AssemblyReference.cache
