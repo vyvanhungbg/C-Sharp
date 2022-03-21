@@ -1,0 +1,7 @@
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\bin\Debug\Mang.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\bin\Debug\Mang.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\bin\Debug\Mang.pdb
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\obj\Debug\Mang.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Mang\obj\Debug\Mang.pdb

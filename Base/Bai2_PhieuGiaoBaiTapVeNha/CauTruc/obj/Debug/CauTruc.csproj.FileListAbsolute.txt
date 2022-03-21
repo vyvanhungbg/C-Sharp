@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\bin\Debug\CauTruc.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\bin\Debug\CauTruc.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\bin\Debug\CauTruc.pdb
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\obj\Debug\CauTruc.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\obj\Debug\CauTruc.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\CauTruc\obj\Debug\CauTruc.pdb

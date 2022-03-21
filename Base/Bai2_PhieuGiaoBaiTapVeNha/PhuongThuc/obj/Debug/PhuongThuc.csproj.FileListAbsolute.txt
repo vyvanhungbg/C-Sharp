@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\bin\Debug\PhuongThuc.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\bin\Debug\PhuongThuc.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\bin\Debug\PhuongThuc.pdb
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\obj\Debug\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\obj\Debug\PhuongThuc.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\PhuongThuc\obj\Debug\PhuongThuc.pdb

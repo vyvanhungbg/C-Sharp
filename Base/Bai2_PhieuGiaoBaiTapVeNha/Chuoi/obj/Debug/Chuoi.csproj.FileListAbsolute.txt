@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\bin\Debug\Chuoi.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\bin\Debug\Chuoi.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\bin\Debug\Chuoi.pdb
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\obj\Debug\Chuoi.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\Chuoi\obj\Debug\Chuoi.pdb

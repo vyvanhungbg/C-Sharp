@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\bin\Debug\TapTin.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\bin\Debug\TapTin.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\bin\Debug\TapTin.pdb
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\obj\Debug\TapTin.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\obj\Debug\TapTin.exe
+D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\TapTin\obj\Debug\TapTin.pdb
