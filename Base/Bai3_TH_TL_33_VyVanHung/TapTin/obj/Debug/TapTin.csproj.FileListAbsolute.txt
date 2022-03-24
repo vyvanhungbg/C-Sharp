@@ -1,0 +1,6 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\bin\Debug\TapTin.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\bin\Debug\TapTin.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\bin\Debug\TapTin.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\obj\Debug\TapTin.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\obj\Debug\TapTin.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TapTin\obj\Debug\TapTin.pdb

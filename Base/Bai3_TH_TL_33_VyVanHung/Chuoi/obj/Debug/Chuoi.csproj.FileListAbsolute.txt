@@ -1,0 +1,6 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\bin\Debug\Chuoi.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\bin\Debug\Chuoi.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\bin\Debug\Chuoi.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\obj\Debug\Chuoi.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\obj\Debug\Chuoi.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Chuoi\obj\Debug\Chuoi.pdb

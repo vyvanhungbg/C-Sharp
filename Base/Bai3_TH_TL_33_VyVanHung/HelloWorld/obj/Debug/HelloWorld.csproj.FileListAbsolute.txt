@@ -1,0 +1,7 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\HelloWorld\obj\Debug\HelloWorld.pdb

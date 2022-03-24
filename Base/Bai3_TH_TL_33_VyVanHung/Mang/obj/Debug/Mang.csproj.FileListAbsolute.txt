@@ -1,0 +1,6 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\bin\Debug\Mang.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\bin\Debug\Mang.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\bin\Debug\Mang.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\obj\Debug\Mang.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\Mang\obj\Debug\Mang.pdb

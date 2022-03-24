@@ -1,0 +1,6 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\bin\Debug\TamGiac.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\bin\Debug\TamGiac.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\bin\Debug\TamGiac.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\obj\Debug\TamGiac.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TamGiac\obj\Debug\TamGiac.pdb

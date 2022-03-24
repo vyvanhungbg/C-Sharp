@@ -1,0 +1,6 @@
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\bin\Debug\NhapLieu.exe.config
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\bin\Debug\NhapLieu.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\bin\Debug\NhapLieu.pdb
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\obj\Debug\NhapLieu.csproj.CoreCompileInputs.cache
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\obj\Debug\NhapLieu.exe
+C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\NhapLieu\obj\Debug\NhapLieu.pdb
