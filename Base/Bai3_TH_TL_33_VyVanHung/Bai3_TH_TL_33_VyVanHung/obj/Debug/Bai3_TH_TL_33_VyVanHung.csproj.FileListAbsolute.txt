@@ -1,0 +1,7 @@
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\bin\Debug\Bai3_TH_TL_33_VyVanHung.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\bin\Debug\Bai3_TH_TL_33_VyVanHung.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\bin\Debug\Bai3_TH_TL_33_VyVanHung.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\obj\Debug\Bai3_TH_TL_33_VyVanHung.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\obj\Debug\Bai3_TH_TL_33_VyVanHung.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\obj\Debug\Bai3_TH_TL_33_VyVanHung.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\Bai3_TH_TL_33_VyVanHung\obj\Debug\Bai3_TH_TL_33_VyVanHung.pdb

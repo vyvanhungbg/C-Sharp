@@ -4,3 +4,10 @@ C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\CuuChuong\bin\Debug\CuuChuon
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\CuuChuong\bin\Debug\CuuChuong.pdb
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.exe
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\bin\Debug\CuuChuong.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\bin\Debug\CuuChuong.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\bin\Debug\CuuChuong.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\CuuChuong\obj\Debug\CuuChuong.pdb

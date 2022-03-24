@@ -4,3 +4,10 @@ C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TachDay\bin\Debug\TachDay.pd
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.csproj.CoreCompileInputs.cache
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.exe
 C:\Users\vyvan\source\repos\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\bin\Debug\TachDay.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\bin\Debug\TachDay.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\bin\Debug\TachDay.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.csproj.AssemblyReference.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_TH_TL_33_VyVanHung\TachDay\obj\Debug\TachDay.pdb

@@ -11,12 +11,9 @@ namespace TachDay
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.UTF8;
-            int n = nhap("");
-            int[] arr = new int[n];
-            for (int i = 0; i < arr.Length; i++)
-            {
-                arr[i] = nhap("");
-            }
+           
+            int[] arr = nhap();
+          
             xuat(arr, true);
             xuat(arr, false);
             
@@ -32,30 +29,31 @@ namespace TachDay
             Console.WriteLine();
         }
 
-        static int nhap(string mess)
+        static int[] nhap()
         {
-
-            int n = 0;
+            List<int> myList = new List<int>();
             bool oke = false;
             do
             {
                 try
                 {
-                    Console.Write(mess);
-                  
-                    string str = Console.ReadLine();
-                    n = int.Parse(str);
+                    Console.WriteLine("Nhập mảng :");
+                    string[] str = Console.ReadLine().Split();
+                    for (int i = 0; i < str.Length; i++)
+                    {
+                        myList.Add(int.Parse(str[i]));
+                    }
                     oke = true;
 
 
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("Vui lòng nhập n là một chữ số !");
+                    Console.WriteLine("Vui lòng nhập n là một chữ số !"+e.Message);
                 }
             } while (oke == false);
 
-            return n;
+            return myList.ToArray();
         }
     }
 }
