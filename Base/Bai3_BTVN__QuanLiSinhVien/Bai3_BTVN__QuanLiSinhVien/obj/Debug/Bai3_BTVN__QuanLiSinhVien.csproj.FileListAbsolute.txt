@@ -1,0 +1,6 @@
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\bin\Debug\Bai3_BTVN__QuanLiSinhVien.exe.config
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\bin\Debug\Bai3_BTVN__QuanLiSinhVien.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\bin\Debug\Bai3_BTVN__QuanLiSinhVien.pdb
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\obj\Debug\Bai3_BTVN__QuanLiSinhVien.csproj.CoreCompileInputs.cache
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\obj\Debug\Bai3_BTVN__QuanLiSinhVien.exe
+D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien\obj\Debug\Bai3_BTVN__QuanLiSinhVien.pdb

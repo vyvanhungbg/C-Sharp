@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_BTVN__QuanLiSinhVien", "Bai3_BTVN__QuanLiSinhVien\Bai3_BTVN__QuanLiSinhVien.csproj", "{D88FA59D-E2EB-471D-96A9-A22B646C73C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{BA8B331A-C07C-4EFE-8A98-D922FD3E9FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88FA59D-E2EB-471D-96A9-A22B646C73C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88FA59D-E2EB-471D-96A9-A22B646C73C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88FA59D-E2EB-471D-96A9-A22B646C73C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88FA59D-E2EB-471D-96A9-A22B646C73C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B331A-C07C-4EFE-8A98-D922FD3E9FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B331A-C07C-4EFE-8A98-D922FD3E9FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B331A-C07C-4EFE-8A98-D922FD3E9FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B331A-C07C-4EFE-8A98-D922FD3E9FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A7A7EB-61EA-49EA-B6DA-935457DA55D5}
+	EndGlobalSection
+EndGlobal
