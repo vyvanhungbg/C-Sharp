@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\obj\Debug\Buoi4.csproj.AssemblyReference.cache
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\obj\Debug\Buoi4.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\bin\Debug\Buoi4.exe.config
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\bin\Debug\Buoi4.exe
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\obj\Debug\Buoi4.exe
-D:\C-Sharp\C-Sharp\Club\Buoi4\Buoi4\obj\Debug\Buoi4.pdb

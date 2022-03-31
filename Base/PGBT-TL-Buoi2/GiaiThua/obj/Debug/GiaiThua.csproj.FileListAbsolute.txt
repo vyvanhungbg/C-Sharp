@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\obj\Debug\GiaiThua.csproj.AssemblyReference.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\obj\Debug\GiaiThua.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\bin\Debug\GiaiThua.exe.config
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\bin\Debug\GiaiThua.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\bin\Debug\GiaiThua.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\obj\Debug\GiaiThua.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\GiaiThua\obj\Debug\GiaiThua.pdb

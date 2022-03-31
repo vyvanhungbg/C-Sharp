@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\bin\Debug\Bai5_TongChuoi.exe.config
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\bin\Debug\Bai5_TongChuoi.exe
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\bin\Debug\Bai5_TongChuoi.pdb
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\obj\Debug\Bai5_TongChuoi.csproj.AssemblyReference.cache
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\obj\Debug\Bai5_TongChuoi.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\obj\Debug\Bai5_TongChuoi.exe
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai5_TongChuoi\obj\Debug\Bai5_TongChuoi.pdb

@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\bin\Debug\PGBT-TL-Buoi2.exe.config
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\bin\Debug\PGBT-TL-Buoi2.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\bin\Debug\PGBT-TL-Buoi2.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\obj\Debug\PGBT-TL-Buoi2.csproj.AssemblyReference.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\obj\Debug\PGBT-TL-Buoi2.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\obj\Debug\PGBT-TL-Buoi2.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\PGBT-TL-Buoi2\obj\Debug\PGBT-TL-Buoi2.pdb

@@ -1,6 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\bin\Debug\DanhSach.exe.config
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\bin\Debug\DanhSach.exe
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\bin\Debug\DanhSach.pdb
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\obj\Debug\DanhSach.exe
-D:\C-Sharp\C-Sharp\Base\Bai2_PhieuGiaoBaiTapVeNha\DanhSach\obj\Debug\DanhSach.pdb

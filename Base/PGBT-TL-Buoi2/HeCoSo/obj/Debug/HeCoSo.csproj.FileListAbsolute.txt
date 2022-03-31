@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\bin\Debug\HeCoSo.exe.config
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\bin\Debug\HeCoSo.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\bin\Debug\HeCoSo.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\obj\Debug\HeCoSo.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\obj\Debug\HeCoSo.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\obj\Debug\HeCoSo.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\HeCoSo\obj\Debug\HeCoSo.csproj.AssemblyReference.cache

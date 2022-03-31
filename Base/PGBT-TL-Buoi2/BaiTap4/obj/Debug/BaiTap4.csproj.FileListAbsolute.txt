@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\bin\Debug\BaiTap4.exe.config
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\bin\Debug\BaiTap4.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\bin\Debug\BaiTap4.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\obj\Debug\BaiTap4.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\obj\Debug\BaiTap4.exe
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\obj\Debug\BaiTap4.pdb
-D:\C-Sharp\C-Sharp\Base\PGBT-TL-Buoi2\BaiTap4\obj\Debug\BaiTap4.csproj.AssemblyReference.cache

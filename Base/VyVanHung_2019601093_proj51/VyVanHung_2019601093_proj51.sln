@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyVanHung_2019601093_proj51", "VyVanHung_2019601093_proj51\VyVanHung_2019601093_proj51.csproj", "{B1B25021-B838-4894-8CF5-B1F7831DF109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhieuBaiTap1_Bai5", "PhieuBaiTap1_Bai5\PhieuBaiTap1_Bai5.csproj", "{4CEEB6A6-68CC-48C8-BEFF-B3ED2F8E0DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B25021-B838-4894-8CF5-B1F7831DF109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B25021-B838-4894-8CF5-B1F7831DF109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B25021-B838-4894-8CF5-B1F7831DF109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B25021-B838-4894-8CF5-B1F7831DF109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEEB6A6-68CC-48C8-BEFF-B3ED2F8E0DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEEB6A6-68CC-48C8-BEFF-B3ED2F8E0DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEEB6A6-68CC-48C8-BEFF-B3ED2F8E0DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEEB6A6-68CC-48C8-BEFF-B3ED2F8E0DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489CFDE2-AEBF-418D-9E90-9F7F0A905206}
+	EndGlobalSection
+EndGlobal

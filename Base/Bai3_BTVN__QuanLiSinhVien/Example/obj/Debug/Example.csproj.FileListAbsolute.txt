@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\bin\Debug\Example.exe.config
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\bin\Debug\Example.exe
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\bin\Debug\Example.pdb
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\obj\Debug\Example.csproj.AssemblyReference.cache
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\obj\Debug\Example.exe
-D:\C-Sharp\C-Sharp\Base\Bai3_BTVN__QuanLiSinhVien\Example\obj\Debug\Example.pdb

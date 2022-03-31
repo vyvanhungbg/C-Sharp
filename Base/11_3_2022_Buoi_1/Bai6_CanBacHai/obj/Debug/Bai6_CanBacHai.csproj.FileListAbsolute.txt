@@ -1,6 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\bin\Debug\Bai6_CanBacHai.exe.config
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\bin\Debug\Bai6_CanBacHai.exe
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\bin\Debug\Bai6_CanBacHai.pdb
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\obj\Debug\Bai6_CanBacHai.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\obj\Debug\Bai6_CanBacHai.exe
-D:\C-Sharp\C-Sharp\Base\11_3_2022_Buoi_1\Bai6_CanBacHai\obj\Debug\Bai6_CanBacHai.pdb

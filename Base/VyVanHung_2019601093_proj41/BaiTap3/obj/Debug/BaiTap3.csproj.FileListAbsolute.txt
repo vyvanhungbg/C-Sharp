@@ -1,7 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\bin\Debug\BaiTap3.exe.config
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\bin\Debug\BaiTap3.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\bin\Debug\BaiTap3.pdb
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\obj\Debug\BaiTap3.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\obj\Debug\BaiTap3.pdb
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap3\obj\Debug\BaiTap3.csproj.AssemblyReference.cache

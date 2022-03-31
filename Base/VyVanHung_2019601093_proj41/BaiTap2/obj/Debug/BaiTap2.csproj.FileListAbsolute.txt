@@ -1,6 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\bin\Debug\BaiTap2.exe.config
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\bin\Debug\BaiTap2.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\bin\Debug\BaiTap2.pdb
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\obj\Debug\BaiTap2.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\BaiTap2\obj\Debug\BaiTap2.pdb

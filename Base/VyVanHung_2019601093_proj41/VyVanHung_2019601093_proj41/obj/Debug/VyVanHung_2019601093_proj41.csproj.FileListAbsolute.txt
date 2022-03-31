@@ -1,6 +1,0 @@
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\bin\Debug\VyVanHung_2019601093_proj41.exe.config
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\bin\Debug\VyVanHung_2019601093_proj41.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\bin\Debug\VyVanHung_2019601093_proj41.pdb
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\obj\Debug\VyVanHung_2019601093_proj41.csproj.CoreCompileInputs.cache
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\obj\Debug\VyVanHung_2019601093_proj41.exe
-D:\C-Sharp\C-Sharp\Base\VyVanHung_2019601093_proj41\VyVanHung_2019601093_proj41\obj\Debug\VyVanHung_2019601093_proj41.pdb
